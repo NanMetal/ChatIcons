@@ -1,0 +1,7 @@
+## Interface: 80200
+
+## Title: Chat Icons
+## Author: Pastafrola-Ragnaros
+## Version: 1.0.0
+
+ChatIcons.lua
