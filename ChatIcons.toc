@@ -1,8 +1,8 @@
-## Interface: 80200
+## Interface: 90001
 
 ## Title: Chat Icons
 ## Notes: Show item icons on chat messages.
 ## Author: Pastafrola-Ragnaros
-## Version: 1.0.1
+## Version: 1.0.2
 
 ChatIcons.lua
